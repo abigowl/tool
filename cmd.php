@@ -1,4 +1,4 @@
 <?php 
-echo("hello");
-include("flag.php");
+@system("ls -l");
+@system("find / -name flag*");
 ?>
