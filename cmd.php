@@ -1,3 +1,3 @@
 <?php 
-@system("echo flag");
+@system("cat flag");
 ?>
